@@ -1,4 +1,11 @@
 commit main
 commit dev
+<<<<<<< HEAD
 commit dev2
 commit dev3
+=======
+commit feature
+commit feature2
+commit feature3
+commit feature4
+>>>>>>> origin/feature
